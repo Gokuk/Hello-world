@@ -1,2 +1,7 @@
 # Hello-world
-New repository
+
+
+
+Hi there.
+
+  I am gokul. I like to build, analyze, solve issues, bugs.
