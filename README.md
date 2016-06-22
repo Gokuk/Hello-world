@@ -4,4 +4,4 @@
 
 Hi there.
 
-  I am gokul. I like to build, analyze, solve issues, bugs.
+  I am gokul. I like to build, analyze, solve issues, identify bugs & fix.
